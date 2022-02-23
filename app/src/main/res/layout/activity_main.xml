@@ -51,6 +51,7 @@
             android:layout_height="wrap_content" />
 
         <ImageView
+            web_url="@{userModel.avatar}"
             android:layout_margin="16dp"
             android:id="@+id/imgUserAvatar"
             android:layout_width="200dp"

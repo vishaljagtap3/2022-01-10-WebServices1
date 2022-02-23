@@ -43,8 +43,9 @@ class Util {
             httpUrlConnection.connectTimeout = 30000
             httpUrlConnection.doInput = true*/
 
+
             /*httpUrlConnection.doOutput = true
-            httpUrlConnection.outputStream //write some data to this stream*/
+            httpUrlConnection.i //write some data to this stream*/
 
             httpUrlConnection.connect()
 
